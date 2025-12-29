@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "echomistcore:block/sculk_tile_slab"
+    },
+    "type=double": {
+      "model": "echomistcore:block/sculk_tiles"
+    },
+    "type=top": {
+      "model": "echomistcore:block/sculk_tile_slab_top"
+    }
+  }
+}
