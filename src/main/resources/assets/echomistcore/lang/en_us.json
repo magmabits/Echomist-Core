@@ -1,0 +1,27 @@
+{
+  "block.echomistcore.sculk_bricks": "Sculk Bricks",
+  "block.echomistcore.sculk_brick_stairs": "Sculk Brick Stairs",
+  "block.echomistcore.sculk_brick_slab": "Sculk Brick Slab",
+  "block.echomistcore.sculk_brick_wall": "Sculk Brick Wall",
+  "block.echomistcore.sculk_tiles": "Sculk Tiles",
+  "block.echomistcore.sculk_tile_stairs": "Sculk Tile Stairs",
+  "block.echomistcore.sculk_tile_slab": "Sculk Tile Slab",
+  "block.echomistcore.sculk_tile_wall": "Sculk Tile Wall",
+  "block.echomistcore.chiseled_sculk": "Chiseled Sculk",
+  "block.echomistcore.sculk_pillar": "Sculk Pillar",
+
+  "item.minecraft.potion.effect.silence_potion": "Potion of Silence",
+  "item.minecraft.splash_potion.effect.silence_potion": "Splash Potion of Silence",
+  "item.minecraft.lingering_potion.effect.silence_potion": "Lingering Potion of Silence",
+  "item.minecraft.potion.effect.long_silence_potion": "Potion of Silence",
+  "item.minecraft.splash_potion.effect.long_silence_potion": "Splash Potion of Silence",
+  "item.minecraft.lingering_potion.effect.long_silence_potion": "Lingering Potion of Silence",
+  "item.minecraft.tipped_arrow.effect.silence_potion": "Arrow of Silence",
+  "item.minecraft.tipped_arrow.effect.long_silence_potion": "Arrow of Silence",
+
+  "itemgroup.echomistcore.core_group": "Echomist: Core",
+
+  "trim_material.echomistcore.echo_shard": "Echo Shard Material",
+
+  "effect.echomistcore.silence": "Silence"
+}

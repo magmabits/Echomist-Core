@@ -1,17 +1,18 @@
 {
 	"schemaVersion": 1,
-	"id": "echomist-core",
+	"id": "echomistcore",
 	"version": "${version}",
 	"name": "Echomist: Core",
-	"description": "Adds Sculk-based building blocks and Potions of Silence!",
+	"description": "Adds Sculk Blocks and Potions of Silence!",
 	"authors": [
 		"magmabits"
 	],
 	"contact": {
-		"homepage": "https://magmabits.xyz/"
+		"homepage": "https://magmabits.xyz",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "ARR",
-	"icon": "assets/echomist-core/icon.png",
+	"license": "CC0-1.0",
+	"icon": "assets/echomistcore/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -25,11 +26,11 @@
 		]
 	},
 	"mixins": [
-		"echomist-core.mixins.json"
+		"echomistcore.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.18.4",
-		"minecraft": "~1.21",
+		"minecraft": "~1.21.1",
 		"java": ">=21",
 		"fabric-api": "*"
 	}

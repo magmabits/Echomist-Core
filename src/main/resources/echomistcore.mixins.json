@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "xyz.magmabits.echomistcore.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "VibrationsCallbackMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+	}
+}
