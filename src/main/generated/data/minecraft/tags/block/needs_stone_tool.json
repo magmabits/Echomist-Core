@@ -1,7 +1,13 @@
 {
   "values": [
     "echomistcore:sculk_bricks",
+    "echomistcore:sculk_brick_stairs",
+    "echomistcore:sculk_brick_slab",
+    "echomistcore:sculk_brick_wall",
     "echomistcore:sculk_tiles",
+    "echomistcore:sculk_tile_stairs",
+    "echomistcore:sculk_tile_slab",
+    "echomistcore:sculk_tile_wall",
     "echomistcore:chiseled_sculk",
     "echomistcore:sculk_pillar"
   ]

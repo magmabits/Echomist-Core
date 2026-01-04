@@ -17,13 +17,27 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
     protected void configure(RegistryWrapper.WrapperLookup wrapperLookup) {
         getOrCreateTagBuilder(BlockTags.PICKAXE_MINEABLE)
                 .add(ModBlocks.SCULK_BRICKS)
+                .add(ModBlocks.SCULK_BRICK_STAIRS)
+                .add(ModBlocks.SCULK_BRICK_SLAB)
+                .add(ModBlocks.SCULK_BRICK_WALL)
+
                 .add(ModBlocks.SCULK_TILES)
+                .add(ModBlocks.SCULK_TILE_STAIRS)
+                .add(ModBlocks.SCULK_TILE_SLAB)
+                .add(ModBlocks.SCULK_TILE_WALL)
                 .add(ModBlocks.CHISELED_SCULK)
                 .add(ModBlocks.SCULK_PILLAR);
 
         getOrCreateTagBuilder(BlockTags.NEEDS_STONE_TOOL)
                 .add(ModBlocks.SCULK_BRICKS)
+                .add(ModBlocks.SCULK_BRICK_STAIRS)
+                .add(ModBlocks.SCULK_BRICK_SLAB)
+                .add(ModBlocks.SCULK_BRICK_WALL)
+
                 .add(ModBlocks.SCULK_TILES)
+                .add(ModBlocks.SCULK_TILE_STAIRS)
+                .add(ModBlocks.SCULK_TILE_SLAB)
+                .add(ModBlocks.SCULK_TILE_WALL)
                 .add(ModBlocks.CHISELED_SCULK)
                 .add(ModBlocks.SCULK_PILLAR);
 

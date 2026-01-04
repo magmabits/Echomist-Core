@@ -18,8 +18,8 @@ public class EchomistCore implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		ModBlocks.registerModBlocks();
 		ModItemGroups.registerItemGroups();
+		ModBlocks.registerModBlocks();
 		ModEffects.registerEffects();
 		ModPotions.registerPotions();
 
